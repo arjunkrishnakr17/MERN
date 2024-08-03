@@ -1,1 +1,1 @@
-learning MEARN!
+learning MERN!
